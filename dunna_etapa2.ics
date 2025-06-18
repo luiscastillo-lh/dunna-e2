@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LaHaus//Live Event//ES
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART;TZID=America/Bogota:20250624T193000
+DTEND;TZID=America/Bogota:20250624T203000
+DTSTAMP:20250618T180000Z
+UID:dunna-etapa2-launch@lahaus.com
+SUMMARY:Lanzamiento en vivo | Inversión desde $377 millones en Santa Marta
+DESCRIPTION:Descubre cómo invertir desde $377 millones en Dunna Etapa 2, el resort residencial en Santa Marta con operación turística y rentabilidad proyectada.\n\n📍 Zona de alta valorización\n🏖️ Amenidades tipo hotel listas para usar\n💰 Rentas cortas con respaldo profesional\n\n🔗 Únete aquí: https://lanzamientos.lahaus.com/dunna-e2/
+LOCATION:Evento en línea
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:¡Tu evento de inversión con LaHaus está por comenzar!
+END:VALARM
+END:VEVENT
+END:VCALENDAR
